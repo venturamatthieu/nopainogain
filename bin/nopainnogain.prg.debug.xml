@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/matthieu/Projets/APP-nopainnogain/nopainnogain/source/nopainnogainView.mc" lineNum="5" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/matthieu/Projets/APP-nopainnogain/nopainnogain/source/nopainnogainView.mc" lineNum="6" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/matthieu/Projets/APP-nopainnogain/nopainnogain/source/nopainnogainView.mc" lineNum="10" pc="268435479" symbol="onLayout"/>
+<entry filename="/Users/matthieu/Projets/APP-nopainnogain/nopainnogain/source/nopainnogainView.mc" lineNum="11" pc="268435483" symbol="onLayout"/>
+<entry filename="/Users/matthieu/Projets/APP-nopainnogain/nopainnogain/source/nopainnogainView.mc" lineNum="17" pc="268435521" symbol="onShow"/>
+<entry filename="/Users/matthieu/Projets/APP-nopainnogain/nopainnogain/source/nopainnogainView.mc" lineNum="21" pc="268435526" symbol="onUpdate"/>
+<entry filename="/Users/matthieu/Projets/APP-nopainnogain/nopainnogain/source/nopainnogainView.mc" lineNum="23" pc="268435530" symbol="onUpdate"/>
+<entry filename="/Users/matthieu/Projets/APP-nopainnogain/nopainnogain/source/nopainnogainView.mc" lineNum="29" pc="268435551" symbol="onHide"/>
+<entry filename="/Users/matthieu/Projets/APP-nopainnogain/nopainnogain/source/nopainnogainMenuDelegate.mc" lineNum="6" pc="268435556" symbol="initialize"/>
+<entry filename="/Users/matthieu/Projets/APP-nopainnogain/nopainnogain/source/nopainnogainMenuDelegate.mc" lineNum="7" pc="268435560" symbol="initialize"/>
+<entry filename="/Users/matthieu/Projets/APP-nopainnogain/nopainnogain/source/nopainnogainMenuDelegate.mc" lineNum="10" pc="268435579" symbol="onMenuItem"/>
+<entry filename="/Users/matthieu/Projets/APP-nopainnogain/nopainnogain/source/nopainnogainMenuDelegate.mc" lineNum="11" pc="268435583" symbol="onMenuItem"/>
+<entry filename="/Users/matthieu/Projets/APP-nopainnogain/nopainnogain/source/nopainnogainMenuDelegate.mc" lineNum="12" pc="268435594" symbol="onMenuItem"/>
+<entry filename="/Users/matthieu/Projets/APP-nopainnogain/nopainnogain/source/nopainnogainMenuDelegate.mc" lineNum="14" pc="268435629" symbol="onMenuItem"/>
+<entry filename="/Users/matthieu/Projets/APP-nopainnogain/nopainnogain/source/nopainnogainDelegate.mc" lineNum="5" pc="268435654" symbol="initialize"/>
+<entry filename="/Users/matthieu/Projets/APP-nopainnogain/nopainnogain/source/nopainnogainDelegate.mc" lineNum="6" pc="268435658" symbol="initialize"/>
+<entry filename="/Users/matthieu/Projets/APP-nopainnogain/nopainnogain/source/nopainnogainDelegate.mc" lineNum="9" pc="268435677" symbol="onMenu"/>
+<entry filename="/Users/matthieu/Projets/APP-nopainnogain/nopainnogain/source/nopainnogainDelegate.mc" lineNum="10" pc="268435681" symbol="onMenu"/>
+<entry filename="/Users/matthieu/Projets/APP-nopainnogain/nopainnogain/source/nopainnogainDelegate.mc" lineNum="11" pc="268435704" symbol="onMenu"/>
+<entry filename="/Users/matthieu/Projets/APP-nopainnogain/nopainnogain/source/nopainnogainDelegate.mc" lineNum="12" pc="268435788" symbol="onMenu"/>
+<entry filename="/Users/matthieu/Projets/APP-nopainnogain/nopainnogain/source/nopainnogainApp.mc" lineNum="6" pc="268435792" symbol="initialize"/>
+<entry filename="/Users/matthieu/Projets/APP-nopainnogain/nopainnogain/source/nopainnogainApp.mc" lineNum="7" pc="268435796" symbol="initialize"/>
+<entry filename="/Users/matthieu/Projets/APP-nopainnogain/nopainnogain/source/nopainnogainApp.mc" lineNum="11" pc="268435815" symbol="onStart"/>
+<entry filename="/Users/matthieu/Projets/APP-nopainnogain/nopainnogain/source/nopainnogainApp.mc" lineNum="15" pc="268435820" symbol="onStop"/>
+<entry filename="/Users/matthieu/Projets/APP-nopainnogain/nopainnogain/source/nopainnogainApp.mc" lineNum="19" pc="268435825" symbol="getInitialView"/>
+<entry filename="/Users/matthieu/Projets/APP-nopainnogain/nopainnogain/source/nopainnogainApp.mc" lineNum="20" pc="268435829" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="15" pc="268435897" symbol="initialize"/>
+<entry filename="Rez" lineNum="16" pc="268435901" symbol="initialize"/>
+<entry filename="Rez" lineNum="17" pc="268435919" symbol="initialize"/>
+<entry filename="Rez" lineNum="18" pc="268435971" symbol="initialize"/>
+<entry filename="Rez" lineNum="34" pc="268436024" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="36" pc="268436028" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="37" pc="268436191" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="38" pc="268436216" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="39" pc="268436268" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="40" pc="268436384" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="41" pc="268436436" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="42" pc="268436549" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="45" pc="268436662" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="9" object="true" symbol="nopainnogainMenuDelegate"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="16" object="true" symbol="MainMenu"/>
+<entry id="8" object="true" symbol="nopainnogainView"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="17" method="true" symbol="MainLayout"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="11" object="true" symbol="nopainnogainApp"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="21" symbol="AppName"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="23" symbol="item_2"/>
+<entry id="22" symbol="item_1"/>
+<entry field="true" id="15" symbol="LauncherIcon"/>
+<entry field="true" id="19" symbol="menu_label_2"/>
+<entry field="true" id="18" symbol="menu_label_1"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="10" object="true" symbol="nopainnogainDelegate"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="14" symbol="id_monkey"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="13" module="true" symbol="Layouts"/>
+<entry field="true" id="20" symbol="prompt"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8389346" symbol="text"/>
+<entry id="8389063" symbol="identifier"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436709" name="rez_cmp_local_bitmap_E4YY4XJWOB_fontHeight" stackId="3" startPc="268436028"/>
+<entry endPc="268436709" name="rez_cmp_local_bitmap_E4YY4XJWOB" stackId="2" startPc="268436028"/>
+<entry endPc="268436709" name="rez_cmp_local_bitmap_PGZOH8LFYB" stackId="5" startPc="268436028"/>
+<entry endPc="268436709" name="rez_cmp_local_bitmap_K123QQW5KU" stackId="6" startPc="268436028"/>
+<entry endPc="268436709" name="rez_cmp_local_bitmap_id_monkey" stackId="4" startPc="268436028"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="nopainnogainView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="nopainnogainView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="nopainnogainView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="nopainnogainView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="nopainnogainView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="nopainnogainMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenuItem" parent="nopainnogainMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="nopainnogainDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenu" parent="nopainnogainDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="nopainnogainApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="nopainnogainApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="nopainnogainApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="nopainnogainApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
